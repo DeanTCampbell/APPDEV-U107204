@@ -57,7 +57,7 @@ the def keyword, followed by the function name and a set of parentheses. The cod
 function is executed when the function is called.
 
 For example, the following code defines a function called greet that prints a message:
-```
+```python
 def greet(name):
 print(f"Hello, {name}")
 greet("John")
