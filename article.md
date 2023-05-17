@@ -57,7 +57,12 @@ the def keyword, followed by the function name and a set of parentheses. The cod
 function is executed when the function is called.
 
 For example, the following code defines a function called greet that prints a message:
+```
 def greet(name):
 print(f"Hello, {name}")
 greet("John")
+```
 When the code is run, it will print "Hello, John".
+### Built-in Functions
+Python has a variety of built-in functions that can be used to perform a wide range of tasks, such
+as:
